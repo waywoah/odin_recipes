@@ -1,0 +1,25 @@
+* {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightgray;
+}
+
+.header {
+    text-align: center;
+    color: rgb(104, 157, 201);
+    font-size: 48px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.img {
+    width: 200px; 
+    height: 200px;
+    padding-top: 5px;
+}
+
+.main_div {
+    margin: auto;
+    max-width: 35%;
+    text-align: left;
+}
