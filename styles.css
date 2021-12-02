@@ -1,0 +1,21 @@
+* {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightgray;
+}
+
+.header {
+    color: rgb(104, 157, 201);
+    font-size: 48px;
+}
+
+.button_list {
+    padding-left: 0px;
+}
+
+.button {
+    font-size: 18px;
+    margin-bottom: 5px;
+    background: rgb(142, 173, 199);
+    border-radius: 8px;
+}
